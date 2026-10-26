@@ -14,7 +14,7 @@ pytest-mock>=1.10
 pytest-env>=0.6.2
 requests >= 2.21.0
 check-manifest
-attrs>=17.4.0
+attrs>=26.1.0
 pre-commit
 tox
 bumpversion
